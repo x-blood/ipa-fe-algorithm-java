@@ -2,7 +2,7 @@ package fe2005.spring;
 
 import java.util.Arrays;
 
-public class algo {
+public class algo4 {
 
 //    private int[] A = new int[1000000];
     public int[] A = {0, 91, 86, 72, 72, 45, 69, 24, 55, 1, 12};
